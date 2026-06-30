@@ -68,3 +68,5 @@ For Supabase locally, copy `.env.example` to `.env` and run `npx vercel dev` (lo
 https://github.com/HyjinnxDev/Web-Portfolio
 
 Clone on Cursor Mobile, add a site folder, push — Vercel deploys all sites together.
+
+**Agent skills** are in `.cursor/skills/` (impeccable, ui-ux-pro-max, design system skills, etc.) so they work on mobile. Type `/` in agent chat to invoke them.
