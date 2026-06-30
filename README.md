@@ -37,13 +37,13 @@ No manual routing edits. The build discovers every folder in `websites/` (except
 
 ## Supabase
 
-Project: **web-portfolio** (`xntkpegvvitzmuiqwahv`)
+Project: **web-portfolio** (`bryqxejppsixzfglokio`) — org: **HyjinnxDev's Org**
 
 - Table: `portfolio_sites` — slug, title, description, published flag
 - Public read via RLS for published sites
 - Hub page loads the site list from Supabase (falls back to `sites.json`)
 
-Dashboard: https://supabase.com/dashboard/project/xntkpegvvitzmuiqwahv
+Dashboard: https://supabase.com/dashboard/project/bryqxejppsixzfglokio
 
 ## Vercel environment variables
 
@@ -51,7 +51,7 @@ Set these in the Vercel project → Settings → Environment Variables:
 
 | Variable | Value |
 |----------|-------|
-| `SUPABASE_URL` | `https://xntkpegvvitzmuiqwahv.supabase.co` |
+| `SUPABASE_URL` | `https://bryqxejppsixzfglokio.supabase.co` |
 | `SUPABASE_ANON_KEY` | Your anon or publishable key from Supabase → Settings → API |
 
 ## Local development
