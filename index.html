@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Portfolio</title>
+    <link rel="stylesheet" href="/shared/hub.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <p class="eyebrow">Web Portfolio</p>
+      <h1>All sites, one deployment</h1>
+      <p class="lede">
+        Every website in <code>websites/</code> is published under its own path on
+        the same Vercel project.
+      </p>
+    </header>
+
+    <main>
+      <section>
+        <h2>Sites</h2>
+        <ul id="site-list" class="site-list">
+          <li class="loading">Loading sites…</li>
+        </ul>
+      </section>
+    </main>
+
+    <script type="module" src="/shared/hub.js"></script>
+  </body>
+</html>

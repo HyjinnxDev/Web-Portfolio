@@ -1,0 +1,9 @@
+{
+  "name": "web-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/vercel-build.mjs",
+    "dev": "node scripts/vercel-build.mjs && npx serve .vercel/output/static"
+  }
+}
