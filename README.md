@@ -22,7 +22,7 @@ shared/          Reusable assets, styles, and utilities across sites
 Clone this repo on your phone via Cursor Mobile to work on any site from anywhere:
 
 ```
-https://github.com/<your-username>/Web-Portfolio
+https://github.com/HyjinnxDev/Web-Portfolio
 ```
 
 ## Local preview
